@@ -15,3 +15,20 @@
 .title {
   text-align: center;
 }
+
+.info {
+  font-size: 24px;
+}
+
+.info h3 {
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+body {
+  background: #1abc9c;
+}
+
+.jumbotron {
+  background: #ecf0f1;
+}
