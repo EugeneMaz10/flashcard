@@ -2,6 +2,16 @@
   display: none;
 }
 
-.show1, .show2, .show3, .show4, .show5, .show6, .show7, .show8, .show9, .show10, .show11, .show12, .show13, .show14, .show15, .show16, .show17, .show18 {
+.button1:hover, .button2:hover, .button3:hover, .button4:hover, .button5:hover, .button6:hover, .button7:hover, .button8:hover, .button9:hover, .button10:hover, .button11:hover, .button12:hover, .button13:hover, .button14:hover, .button15:hover, .button16:hover, .button17:hover, .button18:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.button1, .button2, .button3, .button4, .button5, .button6, .button7, .button8, .button9, .button10, .button11, .button12, .button13, .button14, .button15, .button16, .button17, .button18 {
   font-weight: bold;
+
+}
+
+.title {
+  text-align: center;
 }
