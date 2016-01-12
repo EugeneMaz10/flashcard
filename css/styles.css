@@ -13,6 +13,7 @@
 }
 
 .title {
+  text-shadow: 10px 10px 20px black;
   text-align: center;
 }
 
@@ -31,4 +32,8 @@ body {
 
 .jumbotron {
   background: #ecf0f1;
+}
+
+footer {
+  text-align: center;
 }
